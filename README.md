@@ -16,3 +16,5 @@ Datos para test:
 Comando para hacer push con token:
 git push https://<token>@github.com/<nombre-usuario>/<nombre-repo>
 git push https://<token>@github.com/joenvihe/mlops-webapp-up.git
+
+<!-- Security scan triggered at 2025-09-01 23:30:55 -->
